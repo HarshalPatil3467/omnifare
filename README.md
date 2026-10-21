@@ -14,7 +14,7 @@
 
 ## 🏛️ Academic Affiliation & Author
 
-- **Author & Developer:** [Harshal Patil](mailto:harshal.patil@apsit.edu.in)
+- **Author & Developer:** [Harshal Patil](mailto:hp0198349@gmail.com)
 - **Institution:** [A. P. Shah Institute of Technology (APSIT)](https://www.apsit.edu.in/)
 - **Department:** Department of Information Technology
 
@@ -153,7 +153,7 @@ Distributed under the **GNU Affero General Public License v3.0 (GNU AGPL v3)**.
 
 ```text
 OmniFare: Multi-Modal Travel Fare Prediction Using ML
-Copyright (C) 2026 Harshal Patil <harshal.patil@apsit.edu.in>
+Copyright (C) 2026 Harshal Patil <hp0198349@gmail.com>
 Department of Information Technology, A. P. Shah Institute of Technology (APSIT)
 ```
 
@@ -164,5 +164,5 @@ See [`LICENSE`](./LICENSE) for full legal terms and conditions.
 ## 📬 Contact & Support
 
 For questions, academic inquiries, or feedback regarding **OmniFare**:
-- **Harshal Patil** — [harshal.patil@apsit.edu.in](mailto:harshal.patil@apsit.edu.in)
+- **Harshal Patil** — [hp0198349@gmail.com](mailto:hp0198349@gmail.com)
 - **Institution:** A. P. Shah Institute of Technology, Thane (West), Maharashtra, India

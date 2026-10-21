@@ -218,7 +218,7 @@ const FEATURED_DESTINATIONS = [
 ];
 
 const TEAM_MEMBERS = [
-  { name: "Harshal Patil", roll: "APSIT-IT", email: "harshal.patil@apsit.edu.in" },
+  { name: "Harshal Patil", roll: "APSIT-IT", email: "hp0198349@gmail.com" },
 ];
 
 const INITIAL_RECENT_SEARCHES: RecentSearchItem[] = [
@@ -317,12 +317,12 @@ export default function OmniFareApp() {
   const [currentUser, setCurrentUser] = useState({
     name: "Harshal Patil",
     fullName: "Harshal Patil",
-    email: "harshal.patil@apsit.edu.in",
+    email: "hp0198349@gmail.com",
     isGuest: false,
   });
 
   // Login Form States
-  const [loginEmail, setLoginEmail] = useState("harshal.patil@apsit.edu.in");
+  const [loginEmail, setLoginEmail] = useState("hp0198349@gmail.com");
   const [loginPassword, setLoginPassword] = useState("••••••••••••");
   const [showPassword, setShowPassword] = useState(false);
 
@@ -3228,7 +3228,7 @@ export default function OmniFareApp() {
                 <div>
                   <span className="font-semibold text-slate-800">Platform Leadership:</span>{" "}
                   Harshal Patil (Lead Systems Architect & Engineer) •{" "}
-                  <span className="font-code text-blue-600">harshal.patil@apsit.edu.in</span>
+                  <span className="font-code text-blue-600">hp0198349@gmail.com</span>
                 </div>
                 <div className="font-medium text-slate-400">
                   Department of Information Technology • Production Release v2.4
